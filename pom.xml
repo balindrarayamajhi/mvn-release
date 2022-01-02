@@ -4,7 +4,7 @@
 
     <groupId>com.balindra.buildtool</groupId>
     <artifactId>mvn-release</artifactId>
-    <version>1.0-SNAPSHOT</version>
+    <version>1.0</version>
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
@@ -35,7 +35,7 @@
     <scm>
         <developerConnection>scm:git:https://github.com/balindrarayamajhi/mvn-release.git</developerConnection>
         <url>https://github.com/balindrarayamajhi/mvn-release.git</url>
-        <tag>HEAD</tag>
+        <tag>mvn-release-1.0</tag>
     </scm>
 
     <build>
